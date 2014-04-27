@@ -1,0 +1,995 @@
+2014/04/27 17:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('gii')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/index.php?r=gii
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/416918f3/gridview/styles.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/416918f3...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/416918f3/gridview/styles.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/bootstrap.min.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d4003895/jquery.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d4003895...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/d4003895/jquery.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d4003895/jquery.ba-bbq.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d4003895...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/d4003895/jquery.ba-bbq.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/abound.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/abound.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-blue.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-blue.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/bootstrap-responsive.min.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/bootstrap-responsive.min.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/bootstrap.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.sparkline.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.sparkline.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.flot.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.flot.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.flot.pie.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.flot.pie.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/charts.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/charts.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.knob.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.knob.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.masonry.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.masonry.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/credit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/credit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/styleswitcher.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/styleswitcher.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/page_white_edit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/page_white_edit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/416918f3/gridview/jquery.yiigridview.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/416918f3...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/416918f3/gridview/jquery.yiigridview.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/page_white_excel.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/page_white_excel.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/group.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/group.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/folder_page.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/folder_page.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-brown.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-brown.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-grey.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-grey.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-green.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-green.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-purple.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-purple.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-orange.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-orange.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/credit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/credit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-red.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-red.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/icons/favicon.ico".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/icons/favicon.ico
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/bootstrap.min.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d4003895/jquery.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d4003895...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/d4003895/jquery.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d4003895/jquery.ba-bbq.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d4003895...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/d4003895/jquery.ba-bbq.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/416918f3/gridview/styles.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/416918f3...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/416918f3/gridview/styles.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/bootstrap-responsive.min.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/bootstrap-responsive.min.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/bootstrap.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/abound.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/abound.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-blue.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-blue.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.sparkline.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.sparkline.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.flot.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.flot.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.masonry.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.masonry.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.flot.pie.min.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.flot.pie.min.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/plugins/jquery.knob.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/plugins/jquery.knob.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/charts.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/charts.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/416918f3/gridview/jquery.yiigridview.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/416918f3...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/assets/416918f3/gridview/jquery.yiigridview.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/js/styleswitcher.js".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/j...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/js/styleswitcher.js
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/credit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/credit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/page_white_excel.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/page_white_excel.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/page_white_edit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/page_white_edit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/group.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/group.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/folder_page.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/folder_page.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-brown.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-brown.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-green.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-green.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-grey.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-grey.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-red.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-red.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-orange.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-orange.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/css/style-purple.css".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/c...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/css/style-purple.css
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/abound/img/credit.png".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/abound/i...')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/themes/abound/img/credit.png
+HTTP_REFERER=http://localhost/dss/
+---
+2014/04/27 17:38:48 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in D:\www\framework\db\CDbConnection.php:382
+Stack trace:
+#0 D:\www\framework\db\CDbConnection.php(330): CDbConnection->open()
+#1 D:\www\framework\db\CDbConnection.php(308): CDbConnection->setActive(true)
+#2 D:\www\framework\base\CModule.php(387): CDbConnection->init()
+#3 D:\www\framework\base\CModule.php(103): CModule->getComponent('db')
+#4 D:\www\framework\gii\generators\model\ModelCode.php(60): CModule->__get('db')
+#5 D:\www\framework\web\CFormModel.php(39): ModelCode->init()
+#6 D:\www\framework\gii\CCodeGenerator.php(153): CFormModel->__construct()
+#7 D:\www\framework\gii\CCodeGenerator.php(63): CCodeGenerator->prepare()
+#8 D:\www\framework\web\actions\CInlineAction.php(49): CCodeGenerator->actionIndex()
+#9 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#10 D:\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#11 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\www\framework\web\CWebApplication.php(282): CController->run('index')
+#13 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('gii/model/index')
+#14 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#15 D:\www\dss\index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/dss/gii/model/index
+HTTP_REFERER=http://localhost/dss/gii/default/index
+---
+2014/04/27 18:00:34 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diplom.{{users}}' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `{{users}}`.
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\models\UserLogin.php (52)
+2014/04/27 18:00:34 [error] [exception.CDbException] exception 'CDbException' with message 'The table "{{users}}" for active record class "User" cannot be found in the database.' in D:\www\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(User))
+#1 D:\www\framework\db\ar\CActiveRecord.php(212): CActiveRecord->getMetaData()
+#2 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): CActiveRecord->__call('notsafe', Array)
+#3 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): User->notsafe()
+#4 D:\www\dss\protected\modules\user\models\UserLogin.php(52): UserIdentity->authenticate()
+#5 D:\www\framework\validators\CInlineValidator.php(42): UserLogin->authenticate('password', Array)
+#6 D:\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(UserLogin), 'password')
+#7 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(UserLogin), NULL)
+#8 D:\www\dss\protected\modules\user\controllers\LoginController.php(19): CModel->validate()
+#9 D:\www\framework\web\actions\CInlineAction.php(49): LoginController->actionLogin()
+#10 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 D:\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user/login')
+#15 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 D:\www\dss\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/dss/user/login
+HTTP_REFERER=http://localhost/dss/user/login
+---
+2014/04/27 18:05:35 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diplom.tbl_migration' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `tbl_migration`.
+2014/04/27 18:05:56 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{users}} SET create_at = FROM_UNIXTIME(createtime), lastvisit_at = IF(lastvisit,' at line 1. The SQL statement executed was: UPDATE {{users}} SET create_at = FROM_UNIXTIME(createtime), lastvisit_at = IF(lastvisit,FROM_UNIXTIME(lastvisit),'0000-00-00 00:00:00').
+2014/04/27 18:06:42 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diplom.{{users}}' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `{{users}}`.
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\models\UserLogin.php (52)
+2014/04/27 18:06:42 [error] [exception.CDbException] exception 'CDbException' with message 'The table "{{users}}" for active record class "User" cannot be found in the database.' in D:\www\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(User))
+#1 D:\www\framework\db\ar\CActiveRecord.php(212): CActiveRecord->getMetaData()
+#2 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): CActiveRecord->__call('notsafe', Array)
+#3 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): User->notsafe()
+#4 D:\www\dss\protected\modules\user\models\UserLogin.php(52): UserIdentity->authenticate()
+#5 D:\www\framework\validators\CInlineValidator.php(42): UserLogin->authenticate('password', Array)
+#6 D:\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(UserLogin), 'password')
+#7 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(UserLogin), NULL)
+#8 D:\www\dss\protected\modules\user\controllers\LoginController.php(19): CModel->validate()
+#9 D:\www\framework\web\actions\CInlineAction.php(49): LoginController->actionLogin()
+#10 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 D:\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user/login')
+#15 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 D:\www\dss\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/dss/user/login
+HTTP_REFERER=http://localhost/dss/user/login
+---
+2014/04/27 18:06:47 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'diplom.{{users}}' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `{{users}}`.
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\components\UserIdentity.php (27)
+in D:\www\dss\protected\modules\user\models\UserLogin.php (52)
+2014/04/27 18:06:47 [error] [exception.CDbException] exception 'CDbException' with message 'The table "{{users}}" for active record class "User" cannot be found in the database.' in D:\www\framework\db\ar\CActiveRecord.php:2362
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(User))
+#1 D:\www\framework\db\ar\CActiveRecord.php(212): CActiveRecord->getMetaData()
+#2 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): CActiveRecord->__call('notsafe', Array)
+#3 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): User->notsafe()
+#4 D:\www\dss\protected\modules\user\models\UserLogin.php(52): UserIdentity->authenticate()
+#5 D:\www\framework\validators\CInlineValidator.php(42): UserLogin->authenticate('password', Array)
+#6 D:\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(UserLogin), 'password')
+#7 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(UserLogin), NULL)
+#8 D:\www\dss\protected\modules\user\controllers\LoginController.php(19): CModel->validate()
+#9 D:\www\framework\web\actions\CInlineAction.php(49): LoginController->actionLogin()
+#10 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#11 D:\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#12 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 D:\www\framework\web\CWebApplication.php(282): CController->run('')
+#14 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user/login')
+#15 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#16 D:\www\dss\index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/dss/user/login
+HTTP_REFERER=http://localhost/dss/user/login
+---
+2014/04/27 18:07:13 [error] [exception.CException] exception 'CException' with message 'Property "CDbConnection.prefix" is not defined.' in D:\www\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\www\framework\YiiBase.php(220): CComponent->__set('prefix', '')
+#1 D:\www\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\www\framework\base\CApplication.php(450): CModule->getComponent('db')
+#3 D:\www\framework\db\ar\CActiveRecord.php(634): CApplication->getDb()
+#4 D:\www\framework\db\ar\CActiveRecord.php(2361): CActiveRecord->getDbConnection()
+#5 D:\www\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(User))
+#6 D:\www\framework\db\ar\CActiveRecord.php(212): CActiveRecord->getMetaData()
+#7 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): CActiveRecord->__call('notsafe', Array)
+#8 D:\www\dss\protected\modules\user\components\UserIdentity.php(27): User->notsafe()
+#9 D:\www\dss\protected\modules\user\models\UserLogin.php(52): UserIdentity->authenticate()
+#10 D:\www\framework\validators\CInlineValidator.php(42): UserLogin->authenticate('password', Array)
+#11 D:\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute(Object(UserLogin), 'password')
+#12 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(UserLogin), NULL)
+#13 D:\www\dss\protected\modules\user\controllers\LoginController.php(19): CModel->validate()
+#14 D:\www\framework\web\actions\CInlineAction.php(49): LoginController->actionLogin()
+#15 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 D:\www\framework\web\CController.php(286): CController->runAction(Object(CInlineAction))
+#17 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 D:\www\framework\web\CWebApplication.php(282): CController->run('')
+#19 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('user/login')
+#20 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#21 D:\www\dss\index.php(13): CApplication->run()
+#22 {main}
+REQUEST_URI=/dss/user/login
+HTTP_REFERER=http://localhost/dss/user/login
+---
+2014/04/27 18:17:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "materials".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('materials')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/materials
+HTTP_REFERER=http://localhost/dss/site/page?view=graphs
+---
+2014/04/27 18:17:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "materials".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('materials')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/materials
+HTTP_REFERER=http://localhost/dss/materials
+---
+2014/04/27 18:18:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "materials".' in D:\www\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('materials')
+#1 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\www\dss\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dss/materials
+HTTP_REFERER=http://localhost/dss/materials
+---
+2014/04/27 18:23:06 [error] [exception.CException] exception 'CException' with message 'Property "Material.isNew" is not defined.' in D:\www\framework\base\CComponent.php:130
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(145): CComponent->__get('isNew')
+#1 D:\www\dss\protected\models\Material.php(123): CActiveRecord->__get('isNew')
+#2 D:\www\framework\db\ar\CActiveRecord.php(1126): Material->afterSave()
+#3 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->update(NULL)
+#4 D:\www\dss\protected\controllers\MaterialController.php(97): CActiveRecord->save()
+#5 [internal function]: MaterialController->actionUpdate('1')
+#6 D:\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(MaterialController), Array)
+#7 D:\www\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(MaterialController), Object(ReflectionMethod), Array)
+#8 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#15 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 D:\www\framework\web\CWebApplication.php(282): CController->run('update')
+#17 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/update')
+#18 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#19 D:\www\dss\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/dss/material/update/1
+HTTP_REFERER=http://localhost/dss/material/update/1
+---
+2014/04/27 18:44:54 [error] [exception.CDbException] exception 'CDbException' with message 'Active record "Material" has an invalid configuration for relation "relatedTo". It must specify the relation type, the related active record class and the foreign key.' in D:\www\framework\db\ar\CActiveRecord.php:2410
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(2389): CActiveRecordMetaData->addRelation('relatedTo', Array)
+#1 D:\www\framework\db\ar\CActiveRecord.php(411): CActiveRecordMetaData->__construct(Object(Material))
+#2 D:\www\framework\db\ar\CActiveRecord.php(658): CActiveRecord->getMetaData()
+#3 D:\www\framework\db\ar\CActiveRecord.php(1601): CActiveRecord->getTableSchema()
+#4 D:\www\framework\web\CActiveDataProvider.php(228): CActiveRecord->count(Object(CDbCriteria))
+#5 D:\www\framework\web\CDataProvider.php(224): CActiveDataProvider->calculateTotalItemCount()
+#6 D:\www\framework\web\CActiveDataProvider.php(178): CDataProvider->getTotalItemCount()
+#7 D:\www\framework\web\CDataProvider.php(168): CActiveDataProvider->fetchData()
+#8 D:\www\framework\zii\widgets\CBaseListView.php(111): CDataProvider->getData()
+#9 D:\www\framework\zii\widgets\CListView.php(211): CBaseListView->init()
+#10 D:\www\framework\web\CBaseController.php(147): CListView->init()
+#11 D:\www\framework\web\CBaseController.php(172): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#12 D:\www\dss\protected\views\material\index.php(20): CBaseController->widget('zii.widgets.CLi...', Array)
+#13 D:\www\framework\web\CBaseController.php(126): require('D:\www\dss\prot...')
+#14 D:\www\framework\web\CBaseController.php(95): CBaseController->renderInternal('D:\www\dss\prot...', Array, true)
+#15 D:\www\framework\web\CController.php(869): CBaseController->renderFile('D:\www\dss\prot...', Array, true)
+#16 D:\www\framework\web\CController.php(782): CController->renderPartial('index', Array, true)
+#17 D:\www\dss\protected\controllers\MaterialController.php(128): CController->render('index', Array)
+#18 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionIndex()
+#19 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#20 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#21 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#22 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#23 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#24 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#25 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#26 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#27 D:\www\framework\web\CWebApplication.php(282): CController->run('')
+#28 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material')
+#29 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#30 D:\www\dss\index.php(13): CApplication->run()
+#31 {main}
+REQUEST_URI=/dss/material
+HTTP_REFERER=http://localhost/dss/site/index
+---
+2014/04/27 18:48:36 [error] [php] Illegal string offset 'name' (D:\www\framework\web\helpers\CHtml.php:2458)
+Stack trace:
+#0 D:\www\dss\protected\views\material\_form.php(36): CActiveForm->hiddenField()
+#1 D:\www\framework\web\CBaseController.php(126): require()
+#2 D:\www\framework\web\CBaseController.php(95): MaterialController->renderInternal()
+#3 D:\www\framework\web\CController.php(869): MaterialController->renderFile()
+#4 D:\www\dss\protected\views\material\update.php(21): MaterialController->renderPartial()
+#5 D:\www\framework\web\CBaseController.php(126): require()
+#6 D:\www\framework\web\CBaseController.php(95): MaterialController->renderInternal()
+#7 D:\www\framework\web\CController.php(869): MaterialController->renderFile()
+#8 D:\www\framework\web\CController.php(782): MaterialController->renderPartial()
+#9 D:\www\dss\protected\controllers\MaterialController.php(103): MaterialController->render()
+#10 unknown(0): MaterialController->actionUpdate()
+#11 D:\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#12 D:\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#13 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#14 D:\www\framework\web\filters\CFilterChain.php(133): MaterialController->runAction()
+#15 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#16 D:\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#17 D:\www\framework\web\filters\CInlineFilter.php(58): MaterialController->filterAccessControl()
+#18 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#19 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#20 D:\www\framework\web\CController.php(265): MaterialController->runActionWithFilters()
+#21 D:\www\framework\web\CWebApplication.php(282): MaterialController->run()
+#22 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#23 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#24 D:\www\dss\index.php(13): CWebApplication->run()
+REQUEST_URI=/dss/material/update/1
+in D:\www\dss\protected\views\material\_form.php (36)
+in D:\www\dss\protected\views\material\update.php (21)
+in D:\www\dss\protected\controllers\MaterialController.php (103)
+2014/04/27 19:11:06 [error] [php] include(Tag.php): failed to open stream: No such file or directory (D:\www\framework\YiiBase.php:427)
+Stack trace:
+#0 D:\www\dss\protected\models\Material.php(165): spl_autoload_call()
+#1 D:\www\framework\validators\CInlineValidator.php(42): Material->normalizeTags()
+#2 D:\www\framework\validators\CValidator.php(213): CInlineValidator->validateAttribute()
+#3 D:\www\framework\base\CModel.php(159): CInlineValidator->validate()
+#4 D:\www\framework\db\ar\CActiveRecord.php(805): Material->validate()
+#5 D:\www\dss\protected\controllers\MaterialController.php(73): Material->save()
+#6 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#7 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#8 D:\www\framework\web\filters\CFilterChain.php(133): MaterialController->runAction()
+#9 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 D:\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#11 D:\www\framework\web\filters\CInlineFilter.php(58): MaterialController->filterAccessControl()
+#12 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#13 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#14 D:\www\framework\web\CController.php(265): MaterialController->runActionWithFilters()
+#15 D:\www\framework\web\CWebApplication.php(282): MaterialController->run()
+#16 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#17 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 D:\www\dss\index.php(13): CWebApplication->run()
+REQUEST_URI=/dss/material/create
+in D:\www\dss\protected\models\Material.php (165)
+in D:\www\dss\protected\controllers\MaterialController.php (73)
+in D:\www\dss\index.php (13)
+2014/04/27 19:16:38 [error] [exception.CException] exception 'CException' with message 'Tag and its behaviors do not have a method or closure named "updateFrequency".' in D:\www\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(227): CComponent->__call('updateFrequency', Array)
+#1 D:\www\dss\protected\models\Material.php(133): CActiveRecord->__call('updateFrequency', Array)
+#2 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'stas, 1asdf, pr...')
+#3 D:\www\framework\db\ar\CActiveRecord.php(1097): Material->afterSave()
+#4 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#5 D:\www\dss\protected\controllers\MaterialController.php(73): CActiveRecord->save()
+#6 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#7 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#14 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 D:\www\framework\web\CWebApplication.php(282): CController->run('create')
+#16 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/create')
+#17 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 D:\www\dss\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/dss/material/create
+HTTP_REFERER=http://localhost/dss/material/create
+---
+2014/04/27 19:20:02 [error] [exception.CException] exception 'CException' with message 'Tag and its behaviors do not have a method or closure named "updateFrequency".' in D:\www\framework\base\CComponent.php:266
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(227): CComponent->__call('updateFrequency', Array)
+#1 D:\www\dss\protected\models\Material.php(133): CActiveRecord->__call('updateFrequency', Array)
+#2 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'stas, 1asdf, pr...')
+#3 D:\www\framework\db\ar\CActiveRecord.php(1097): Material->afterSave()
+#4 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#5 D:\www\dss\protected\controllers\MaterialController.php(73): CActiveRecord->save()
+#6 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#7 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#8 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#9 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#10 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#11 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#12 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#13 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#14 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 D:\www\framework\web\CWebApplication.php(282): CController->run('create')
+#16 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/create')
+#17 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#18 D:\www\dss\index.php(13): CApplication->run()
+#19 {main}
+REQUEST_URI=/dss/material/create
+HTTP_REFERER=http://localhost/dss/material/create
+---
+2014/04/27 19:23:19 [error] [exception.CDbException] exception 'CDbException' with message 'No counter columns are being updated for table "material_tags".' in D:\www\framework\db\schema\CDbCommandBuilder.php:441
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(1784): CDbCommandBuilder->createUpdateCounterCommand(Object(CMysqlTableSchema), Array, Object(CDbCriteria))
+#1 D:\www\dss\protected\models\Tag.php(168): CActiveRecord->updateCounters(Array, Object(CDbCriteria))
+#2 D:\www\dss\protected\models\Tag.php(160): Tag->addTags(Array)
+#3 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'stas, 1asdf, pr...')
+#4 D:\www\framework\db\ar\CActiveRecord.php(1097): Material->afterSave()
+#5 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#6 D:\www\dss\protected\controllers\MaterialController.php(73): CActiveRecord->save()
+#7 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#8 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#9 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#10 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#11 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#12 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#13 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#14 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#15 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 D:\www\framework\web\CWebApplication.php(282): CController->run('create')
+#17 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/create')
+#18 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#19 D:\www\dss\index.php(13): CApplication->run()
+#20 {main}
+REQUEST_URI=/dss/material/create
+HTTP_REFERER=http://localhost/dss/material/create
+---
+2014/04/27 19:26:41 [error] [exception.CException] exception 'CException' with message 'Property "Tag.text" is not defined.' in D:\www\framework\base\CComponent.php:130
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(145): CComponent->__get('text')
+#1 D:\www\framework\validators\CStringValidator.php(79): CActiveRecord->__get('text')
+#2 D:\www\framework\validators\CValidator.php(213): CStringValidator->validateAttribute(Object(Tag), 'text')
+#3 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(Tag), NULL)
+#4 D:\www\framework\db\ar\CActiveRecord.php(805): CModel->validate(NULL)
+#5 D:\www\dss\protected\models\Tag.php(167): CActiveRecord->save()
+#6 D:\www\dss\protected\models\Tag.php(154): Tag->addTags(Array)
+#7 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'stas, 1asdf, pr...')
+#8 D:\www\framework\db\ar\CActiveRecord.php(1097): Material->afterSave()
+#9 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#10 D:\www\dss\protected\controllers\MaterialController.php(73): CActiveRecord->save()
+#11 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#12 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#19 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 D:\www\framework\web\CWebApplication.php(282): CController->run('create')
+#21 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/create')
+#22 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#23 D:\www\dss\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/dss/material/create
+HTTP_REFERER=http://localhost/dss/material/create
+---
+2014/04/27 19:26:57 [error] [exception.CException] exception 'CException' with message 'Property "Tag.text" is not defined.' in D:\www\framework\base\CComponent.php:130
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(145): CComponent->__get('text')
+#1 D:\www\framework\validators\CStringValidator.php(79): CActiveRecord->__get('text')
+#2 D:\www\framework\validators\CValidator.php(213): CStringValidator->validateAttribute(Object(Tag), 'text')
+#3 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(Tag), NULL)
+#4 D:\www\framework\db\ar\CActiveRecord.php(805): CModel->validate(NULL)
+#5 D:\www\dss\protected\models\Tag.php(167): CActiveRecord->save()
+#6 D:\www\dss\protected\models\Tag.php(154): Tag->addTags(Array)
+#7 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'stas, 1asdf, pr...')
+#8 D:\www\framework\db\ar\CActiveRecord.php(1097): Material->afterSave()
+#9 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#10 D:\www\dss\protected\controllers\MaterialController.php(73): CActiveRecord->save()
+#11 D:\www\framework\web\actions\CInlineAction.php(49): MaterialController->actionCreate()
+#12 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#13 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#15 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#19 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 D:\www\framework\web\CWebApplication.php(282): CController->run('create')
+#21 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/create')
+#22 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#23 D:\www\dss\index.php(13): CApplication->run()
+#24 {main}
+REQUEST_URI=/dss/material/create
+HTTP_REFERER=http://localhost/dss/material/create
+---
+2014/04/27 19:29:13 [error] [exception.CException] exception 'CException' with message 'Property "Tag.text" is not defined.' in D:\www\framework\base\CComponent.php:130
+Stack trace:
+#0 D:\www\framework\db\ar\CActiveRecord.php(145): CComponent->__get('text')
+#1 D:\www\framework\validators\CStringValidator.php(79): CActiveRecord->__get('text')
+#2 D:\www\framework\validators\CValidator.php(213): CStringValidator->validateAttribute(Object(Tag), 'text')
+#3 D:\www\framework\base\CModel.php(159): CValidator->validate(Object(Tag), NULL)
+#4 D:\www\framework\db\ar\CActiveRecord.php(805): CModel->validate(NULL)
+#5 D:\www\dss\protected\models\Tag.php(167): CActiveRecord->save()
+#6 D:\www\dss\protected\models\Tag.php(154): Tag->addTags(Array)
+#7 D:\www\dss\protected\models\Material.php(133): Tag->updateFrequency(NULL, 'asdf, 123, 23 2')
+#8 D:\www\framework\db\ar\CActiveRecord.php(1126): Material->afterSave()
+#9 D:\www\framework\db\ar\CActiveRecord.php(806): CActiveRecord->update(NULL)
+#10 D:\www\dss\protected\controllers\MaterialController.php(97): CActiveRecord->save()
+#11 [internal function]: MaterialController->actionUpdate('1')
+#12 D:\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(MaterialController), Array)
+#13 D:\www\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(MaterialController), Object(ReflectionMethod), Array)
+#14 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#15 D:\www\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#16 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#17 D:\www\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#18 D:\www\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#19 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#20 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#21 D:\www\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 D:\www\framework\web\CWebApplication.php(282): CController->run('update')
+#23 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController('material/update')
+#24 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#25 D:\www\dss\index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/dss/material/update/1
+HTTP_REFERER=http://localhost/dss/material/update/1
+---
+2014/04/27 19:29:47 [error] [php] include(normalizeTags.php): failed to open stream: No such file or directory (D:\www\framework\YiiBase.php:427)
+Stack trace:
+#0 D:\www\framework\validators\CValidator.php(186): import()
+#1 D:\www\framework\base\CModel.php(287): createValidator()
+#2 D:\www\framework\base\CModel.php(260): Material->createValidators()
+#3 D:\www\framework\base\CModel.php(547): Material->getValidators()
+#4 D:\www\framework\base\CModel.php(468): Material->getSafeAttributeNames()
+#5 D:\www\framework\base\CComponent.php(152): Material->setAttributes()
+#6 D:\www\framework\db\ar\CActiveRecord.php(161): Material->__set()
+#7 D:\www\dss\protected\controllers\MaterialController.php(96): Material->__set()
+#8 unknown(0): MaterialController->actionUpdate()
+#9 D:\www\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#10 D:\www\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#11 D:\www\framework\web\CController.php(308): CInlineAction->runWithParams()
+#12 D:\www\framework\web\filters\CFilterChain.php(133): MaterialController->runAction()
+#13 D:\www\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#14 D:\www\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#15 D:\www\framework\web\filters\CInlineFilter.php(58): MaterialController->filterAccessControl()
+#16 D:\www\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#17 D:\www\framework\web\CController.php(291): CFilterChain->run()
+#18 D:\www\framework\web\CController.php(265): MaterialController->runActionWithFilters()
+#19 D:\www\framework\web\CWebApplication.php(282): MaterialController->run()
+#20 D:\www\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#21 D:\www\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#22 D:\www\dss\index.php(13): CWebApplication->run()
+REQUEST_URI=/dss/material/update/1
+in D:\www\dss\protected\controllers\MaterialController.php (96)
+in D:\www\dss\index.php (13)
